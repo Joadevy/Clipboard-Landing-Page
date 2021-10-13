@@ -7,7 +7,6 @@
   - [Live Site](#live-site)
   - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshots)
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-I-learned)
@@ -21,11 +20,6 @@ This is my solution to the [Clipboard landing page challenge on Frontend Mentor]
 ### The challenge
 
 - Reply the design of the component as well as possible and make it responsive for 375px and 1440px resolutions.
-
-### Screenshots
-
-![Desktop design](./images/Design-Desktop-Form.png)
-![Mobile design](./images/Design-Mobile-Form.png)
 
 ## My process
 
