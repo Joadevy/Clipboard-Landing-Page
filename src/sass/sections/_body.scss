@@ -1,0 +1,21 @@
+body {
+   background: url("/src/assets/patterns/bg-header-mobile.png") no-repeat;
+   background-size: contain;
+   font-family: 'Bai Jamjuree';
+   font-size: 18px;
+   min-height: 100vh;
+   padding: 1.5rem;
+   display: flex;
+   flex-direction: column;
+   align-content: center;
+}
+
+@media screen and (min-width:1240px){ 
+   body {
+      background: url("/src/assets/patterns/bg-header-desktop.png") no-repeat;
+   }
+} 
+
+   
+
+

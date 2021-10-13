@@ -1,0 +1,33 @@
+
+.accesibility {
+    margin-bottom: 6rem;
+}
+    .cont-devices {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: -1.5rem;
+
+            img {
+                width: 100%;
+            }
+}
+
+@media screen and (min-width:550px){
+
+        .cont-devices {
+            width: 50%; 
+         }
+}
+
+@media screen and (min-width:1240px){ 
+
+    .accesibility {
+        margin-bottom: 0rem;
+    }
+        .cont-devices {
+            width: 60%;
+            margin-top: 5rem;
+    
+    }
+
+}
