@@ -83,7 +83,7 @@ button:hover {
 }
 
 body {
-  background: url("/src/assets/patterns/bg-header-mobile.png") no-repeat;
+  background: url("../src/assets/patterns/bg-header-mobile.png") no-repeat;
   background-size: contain;
   font-family: "Bai Jamjuree";
   font-size: 18px;
@@ -96,7 +96,7 @@ body {
 
 @media screen and (min-width: 1240px) {
   body {
-    background: url("/src/assets/patterns/bg-header-desktop.png") no-repeat;
+    background: url("../src/assets/patterns/bg-header-desktop.png") no-repeat;
   }
 }
 .hero {
