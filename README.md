@@ -48,6 +48,6 @@ I'm really excited to keep learning about frontend technologies, specially about
 
 ## Got feedback or any comment for me?
 
-- Contact me in twitter or post in one of my solutions of Frontend-mentor and probably I'll learn you. 
+- Contact me in twitter or post in one of my solutions of Frontend-mentor and probably I'll read you. 
 
 **Have a good day!** 🚀
