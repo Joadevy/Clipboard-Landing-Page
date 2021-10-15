@@ -1,0 +1,21 @@
+.cont-functions {
+    display: flex;
+    flex-direction: column;
+
+    .cont-functions__card {
+        text-align: center;
+        margin: 1.5rem;
+
+        h3 {
+            color: var(--tittle-color);
+            margin-bottom: .7rem;
+            opacity: .9;
+        }
+
+        p {
+            color: var(--paragraph-color);
+            opacity: .8;
+            font-size: .9rem;
+        }
+    }
+}

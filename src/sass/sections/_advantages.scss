@@ -1,0 +1,59 @@
+.advantages__subcont {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-bottom: 8rem;
+
+    .cont-mac {
+        width: 100%;
+        margin: 0 auto;
+
+        img {
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (min-width:550px){
+    .advantages__subcont {
+    
+        .cont-mac {
+            width: 50%;
+    
+            img {
+                width: 100%;
+            }
+        }
+
+    }
+}
+
+@media screen and (min-width:1240px){ 
+
+    .advantages__subcont {
+        flex-direction: row;
+        gap: 2rem;
+    
+        .cont-mac {
+            width: 45%;
+            margin: 0 auto;
+    
+            img {
+                width: 100%;
+            }
+        }
+
+        .cont-functions {
+            width: 45%;
+
+            .cont-functions__card {
+                text-align: left;
+                margin-right: 15rem;
+        
+                p {
+                    line-height: 1.5rem;
+                }
+            }
+        }
+    }
+}
