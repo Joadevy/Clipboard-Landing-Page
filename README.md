@@ -34,7 +34,7 @@ This is my solution to the [Clipboard landing page challenge on Frontend Mentor]
 ### What I learned
 
 This is my first complete landing page coded 100% for me. In my past projects I did small components for web pages and at this landing I integrated all of my knowledge and did some components in the same layout.
-Also on this project I learned more about SASS. I used it to nesting and mainly in order to module my code. I used a pattern to organize the project like an architecture but adapted for this small web.
+Also on this project I learned more about SASS. I used it to nesting and partials in order to module my code. I used a pattern to organize the project like an architecture but adapted for this small web.
 I'll keep working on it.
 
 ### Continued development
